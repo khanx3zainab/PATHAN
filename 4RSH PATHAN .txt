@@ -1,0 +1,24 @@
+— 𝘽𝘼𝙎𝙄𝘾 𝙄𝙉𝙎𝙏𝘼𝙇𝙇𝘼𝙏𝙄𝙊𝙉 >3 💗
+pkg update -y && pkg upgrade -y
+pkg install python -y
+pkg install git -y
+pip install rich
+pip install requests
+pip install mechanize
+pip install lolcat
+pip install bs4
+pip install futures
+pip install flask
+pip install fake_useragent
+pip install faker
+pip install httpx
+pip install httplib2
+pip install pycurl
+
+— 𝐎𝐋𝐃 𝐂𝐋𝐎𝐍𝐄 𝐀𝐑𝐒𝐇-𝐗𝐃 𝐔𝐏𝐃𝐀𝐓𝐄𝐃 𝐂𝐎𝐌𝐌𝐀𝐍𝐃 >𝟑 🔥
+
+git clone https://github.com/4RSH/PATHAN
+
+cd PATHAN
+
+python OLD_CRACK.py
